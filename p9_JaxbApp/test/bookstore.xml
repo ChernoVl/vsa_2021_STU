@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:bookstore xmlns:ns2="sk.fei.ass">
+    <book isbn="978-0060554738">
+        <author>Astrid Lindgrenova</author>
+        <title>Pipi Dlha Pancucha</title>
+        <publisher>Mlade Leta</publisher>
+    </book>
+     <book isbn="978-3832180577">
+        <author>Astrid Lindgrenova</author>
+        <title>Emil z Lonebergy</title>
+        <publisher>Mlade Leta</publisher>
+    </book>
+    <location>Doma v obyvacke</location>
+    <name>Detske knihy</name>
+</ns2:bookstore>
